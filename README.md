@@ -1,5 +1,10 @@
 # Analysis of Employees Reviews of Accenture Project
 
+<b> Click on the link below to see the rendered visuals of the plots/graphs </b>
+
+http://htmlpreview.github.io/?https://github.com/majd1239/Analysis-of-Employees-Reviews-of-Accenture/blob/master/Accenture_Reviews_Analysis.html
+
+
 This was my project in preparation for Accenture AcnTechBuild talent recruitment event. We were told to prepare
 a pre-built piece of software to present at the event and then participate in an analytics build session.
 
@@ -25,7 +30,3 @@ The following visuals where then created:<br>
   timeline x-axis and an average rating y-axis. The scatter can be filtered according to the desired selected<br>
   topics and when hovered, it will display the Review content plus that employee advice to the management.<br>
 
-
-<b> Click on the link below to see the rendered visuals of the plots/graphs </b>
-
-http://htmlpreview.github.io/?https://github.com/majd1239/Analysis-of-Employees-Reviews-of-Accenture/blob/master/Accenture_Reviews_Analysis.html
