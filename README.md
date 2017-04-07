@@ -1,4 +1,4 @@
-# Analysis of Employees Reviews of Accenture Project
+# Analysis of Employees Reviews Accenture Project
 
 <b> Click on the link below to see the rendered visuals of the plots/graphs </b>
 
