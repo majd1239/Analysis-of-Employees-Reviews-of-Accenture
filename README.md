@@ -6,8 +6,8 @@ http://htmlpreview.github.io/?https://github.com/majd1239/Analysis-of-Employees-
 
 
 This was my project in preparation for Accenture AcnTechBuild talent recruitment event. We were told to prepare
-a pre-built piece of software to present at the event and then participate in an analytics build session. This project
-led to a summer internship offer with Accenture.
+a pre-built piece of software to present at the event and then participate in an analytics build session. <b>This project
+led to a summer internship offer from Accenture.</b>
 
 I wrote the project from scratch. I wanted to present a code that has value in it. I chose to do a data analysis
 and visualization using Python. My first step was to search for a relevant data to work on. The company's reviews
