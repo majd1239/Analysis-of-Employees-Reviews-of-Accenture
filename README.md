@@ -2,7 +2,7 @@
 
 <b> Click on the link below to see the rendered visuals of the plots/graphs </b>
 
-http://htmlpreview.github.io/?https://github.com/majd1239/Analysis-of-Employees-Reviews-of-Accenture/blob/master/Accenture_Reviews_Analysis.html
+https://nbviewer.jupyter.org/github/majd1239/Analysis-of-Employees-Reviews-of-Accenture/blob/master/Accenture_Reviews_Analysis.ipynb
 
 
 This was my project in preparation for Accenture AcnTechBuild talent recruitment event. We were told to prepare
